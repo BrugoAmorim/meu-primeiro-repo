@@ -5,4 +5,4 @@ Fiz uma alteração remota no Github.
 
 Fiz uma alteração local na minha máquina
 
-## Olá Mundo!! Eu sou Bruno
+## Olá Mundo! Eu sou o Bruno
