@@ -9,5 +9,6 @@ Fiz uma alteração local na minha máquina
 
 ### Vamos brincar com o readme
 
-- testando alguns conceitor de documentao
+- testando alguns conceitos de documentação
 
+<ins>Nunca se esqueça de usar as tags dentro do readme, essa extensão é capaz de entender quase todo tipo de TAG</ins>
